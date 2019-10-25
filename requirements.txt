@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+Requests
+bs4
+glob
+wptools
+sqlalchemy

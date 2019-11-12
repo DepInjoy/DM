@@ -7,3 +7,6 @@ bs4
 glob
 wptools
 sqlalchemy
+pyquery
+jieba
+wordcloud
